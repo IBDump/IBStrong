@@ -6,3 +6,4 @@ author=IBDump (Malak Store), Evokerr, JingMatrix, Enginex0, osm0sis, KOWX712
 description=Strong Play Integrity by Malak Store. Keybox auto-synced from IBStrong. Based on AlwaysStrong. Tap Action.
 support=https://t.me/IBdump
 banner=banner.png
+updateJson=https://raw.githubusercontent.com/IBDump/IBStrong/refs/heads/main/update.json
