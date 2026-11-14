@@ -1,6 +1,6 @@
 {
-  "version": "v1.0",
-  "versionCode": 100,
-  "zipUrl": "",
+  "version": "v1.1",
+  "versionCode": 110,
+  "zipUrl": "https://github.com/IBDump/IBStrong/releases/download/v.1.1/Malakstore-v1.1.zip",
   "changelog": "https://raw.githubusercontent.com/IBDump/IBDump/refs/heads/main/IBStrong/changelog.md"
 }
